@@ -1,0 +1,114 @@
+Day 2 topics.
+
+cat ,mv, ls, stat, ls *, ls ???? , cp, mkdir, tree, semicolon, and and , [a-z] ,[!a-y] ,rm, touch , cd
+
+71 cat>myfile
+72 cat myfile
+73 cat<myfile
+74 cat>>myfile
+75 cat>myfile
+76 cat<myfile
+77 ls -l
+78 cat>>myfile
+79 cat<myfile
+80 cat>>my
+81 cat>>myfile
+82 cat<myfile
+83 cat -n myfile
+84 ls
+85 ls -r
+86 ls -ltr
+87 ls -r
+88 ls
+89 ls -a
+90 ls -i
+91 ls -t
+92 ls -l
+93 ls -l myfile
+94 ls -ld
+95 touch file1 file2 fil3
+96 touch --help
+97 touch -help
+98 ls -ltr
+99 touch -t 202607090902.51 fil3
+100 ls -ltr
+101 stat myfile
+102 stat fil3
+103 mkdir cloud
+104 mkdir cloud aws jenkins
+105 mkdir deveops cicd ansible aws
+106 mkdir deveops cicd ansible azure
+107 mkdir deveops cicd terra azure
+108 mkdir deveops cicd terra gcp
+109 ls -ltr
+110 tree
+111 mkdir -p devops/cloud/aws/dockor/k8s
+112 ls -ltr
+113 tree
+114 ls -ltr
+115 cd devops
+116 ls
+117 cd cloud/
+118 cd aws/
+119 cd dockor/
+120 cd k8s/
+121 ls
+122 cd ..
+123 ls
+124 pwd
+125 cd ../..
+126 pwd
+127 cd ../../..
+128 pwd
+129 cd veera/
+130 ls
+131 ls -ltr
+132 copy -i myfile devops/
+133 cp -i myfile devops/
+134 ls
+135 ls -l /dev/
+136 ls -l
+137 ls -l devops
+138 ls -l /devops
+139 ls -l devops/cloud
+140 cp -i myfile devops/cloud/
+141 ls -l devops/cloud
+142 cp -ir myfile devops/cloud/aws/
+143 ls -ltr
+144 rm -ir fil3
+145 ls
+146 rm -f file
+147 ls
+148 rm -f file1
+149 ls
+150 rm -ri file2
+151 ls
+152 ls -ltr
+153 mv my temporary
+154 ls
+155 mv gcp devops/
+156 ls -ltr
+157 ls d*
+158 ls 8s
+159 ls s
+160 cp e devops/
+161 ls -l
+162 cp -i m tem devops/
+163 ls
+164 ls -l /devops
+165 ls -l devops
+166 rm -i 8.s
+167 rm -i A*
+168 rm -ir A*
+169 rm -f A*
+170 ls ???
+171 ls ???*
+172 ls [tad]*
+173 ls [a-f]*
+174 ls [!a-f]*
+175 date; cal; pwd
+176 date ;cmd;pwd
+177 date ;cmd; pwd
+178 date && cal && pwd
+179 date && cmd && pwd
+180 history
