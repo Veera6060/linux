@@ -1,1 +1,71 @@
 Day 1 - Linux.
+basic comands
+
+[veera@VeeraServer ~]$ history
+1 +
+2 192.168.8.128
+3 192.168.8.128192.168.8.128192.168.8.128192.168.8.128
+4 date
+5 whoami
+6 uname -r
+7 uname --help
+8 uname -a
+9 uname a
+10 man uname
+11 info uname
+12 man pwd
+13 info date
+14 pwd
+15 uname
+16 uname -r
+17 uname -a
+18 uname -i
+19 hostname
+20 arch
+21 date
+22 cal
+23 cal 2050
+24 cal 08 2020
+25 sudo dnf install java-21
+26 df
+27 df -h
+28 du
+29 du -h
+30 tty
+31 whoami
+32 sudo -i
+33 clear
+34 ifconfig
+35 ping google.com
+36 bandit.labs.overthewire.org
+37 bash
+38 man date
+39 man
+40 info
+41 man info
+42 man pwd
+43 man uname
+44 info date
+45 uname --help
+46 pwd
+47 uname
+48 uname -r
+49 uname -a
+50 hostaname
+51 hostname
+52 arch
+53 date
+54 cal
+55 cal 2027
+56 cal 08 2050
+57 sudo dnf install java-21
+58 df
+59 df -h
+60 du -h
+61 tty
+62 whoami
+63 sudo -i
+64 ipaddress
+65 ip
+66 ifconfig
+67 history
